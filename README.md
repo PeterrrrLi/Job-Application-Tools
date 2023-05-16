@@ -3,5 +3,8 @@
 
 Currently support cover letter field replacer for fast cover letter generation. Please feel free to use!! :laughing:
 
+## replace_in_cover_letter.py
+This is a tool that inputs a cover letter template in docx, automatically replaces what you want to replace using command line, and output a pdf cover letter to submit!
+
 ## Usage
  `python3 replace_in_cover_letter.py [template-docx-file-path] KEYWORD1=REPLACER1 KEYWORD2=REPLACER2`
